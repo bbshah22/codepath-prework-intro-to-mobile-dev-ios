@@ -4,7 +4,7 @@
 This is a very simple/minimal app to learn the basics of iOS developmnent. It helped me get familar with swift, xcode, and show keybpard and mouse shortcuts. The app just lets you change the background color and display different text. 
 
 ### App Walk-though
-I created this gif using Recordit
+I created this gif using giphy
 
 
 <img src="https://media.giphy.com/media/r5wKYDkwv2sy9WeJQP/giphy.gif" width=200><br>
