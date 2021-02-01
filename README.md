@@ -5,7 +5,7 @@ This is a very simple/minimal app to learn the basics of iOS developmnent. It he
 
 ### App Walk-though
 I created this gif using Recordit
-<img src="https://recordit.co/HzzBmcq9EW" width=200><br>
+<img src="https://media.giphy.com/media/r5wKYDkwv2sy9WeJQP/giphy.gif" width=200><br>
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
