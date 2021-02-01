@@ -5,6 +5,8 @@ This is a very simple/minimal app to learn the basics of iOS developmnent. It he
 
 ### App Walk-though
 I created this gif using Recordit
+
+
 <img src="https://media.giphy.com/media/r5wKYDkwv2sy9WeJQP/giphy.gif" width=200><br>
 
 ### Required User Stories
